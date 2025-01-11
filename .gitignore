@@ -5,3 +5,4 @@ data/
 # Ignore large model files
 *.model
 *.h5
+.gitignore
